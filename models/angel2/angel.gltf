@@ -1,0 +1,483 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_materials_unlit"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Object_2"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_unlit" : {}
+            },
+            "name" : "lallamadelalibertad_dec15.1001",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.9
+            }
+        },
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_unlit" : {}
+            },
+            "name" : "lallamadelalibertad_dec15.1002",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.9
+            }
+        },
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_unlit" : {}
+            },
+            "name" : "lallamadelalibertad_dec15.1003",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 2
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.9
+            }
+        },
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_unlit" : {}
+            },
+            "name" : "lallamadelalibertad_dec15.1004",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 3
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.9
+            }
+        },
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_unlit" : {}
+            },
+            "name" : "lallamadelalibertad_dec15.1005",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 4
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.9
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Object_0",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 15,
+                    "material" : 3
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 16,
+                        "NORMAL" : 17,
+                        "TEXCOORD_0" : 18
+                    },
+                    "indices" : 19,
+                    "material" : 4
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "lallamadelalibertad_dec15.1001_baseColor",
+            "uri" : "lallamadelalibertad_dec15_1001_baseColor.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "lallamadelalibertad_dec15.1002_baseColor",
+            "uri" : "lallamadelalibertad_dec15_1002_baseColor.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "lallamadelalibertad_dec15.1003_baseColor",
+            "uri" : "lallamadelalibertad_dec15_1003_baseColor.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "lallamadelalibertad_dec15.1004_baseColor",
+            "uri" : "lallamadelalibertad_dec15_1004_baseColor.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "lallamadelalibertad_dec15.1005_baseColor",
+            "uri" : "lallamadelalibertad_dec15_1005_baseColor.jpg"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 103489,
+            "max" : [
+                -3.0773696899414062,
+                8.369553565979004,
+                1.6512336730957031
+            ],
+            "min" : [
+                -12.878301620483398,
+                -3.9359776973724365,
+                -7.025522708892822
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 103489,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 103489,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5125,
+            "count" : 485694,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 106580,
+            "max" : [
+                -2.937930107116699,
+                8.060361862182617,
+                1.4703950881958008
+            ],
+            "min" : [
+                -12.878301620483398,
+                -4.180458068847656,
+                -7.10028600692749
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 106580,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 106580,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5125,
+            "count" : 512535,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 106131,
+            "max" : [
+                -2.9194154739379883,
+                8.594795227050781,
+                1.3082022666931152
+            ],
+            "min" : [
+                -12.900793075561523,
+                -4.141975402832031,
+                -7.040110111236572
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 106131,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 106131,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5125,
+            "count" : 507297,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 91654,
+            "max" : [
+                -2.987393379211426,
+                8.33714771270752,
+                0.8796133995056152
+            ],
+            "min" : [
+                -12.889629364013672,
+                -4.161743640899658,
+                -7.043264389038086
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 91654,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 91654,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5125,
+            "count" : 432669,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 99824,
+            "max" : [
+                -3.0115833282470703,
+                8.594795227050781,
+                0.9687728881835938
+            ],
+            "min" : [
+                -12.878301620483398,
+                -3.900285005569458,
+                -7.060576438903809
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 99824,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 99824,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5125,
+            "count" : 461799,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 1241868,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1241868,
+            "byteOffset" : 1241868
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 827912,
+            "byteOffset" : 2483736
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1942776,
+            "byteOffset" : 3311648
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1278960,
+            "byteOffset" : 5254424
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1278960,
+            "byteOffset" : 6533384
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 852640,
+            "byteOffset" : 7812344
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2050140,
+            "byteOffset" : 8664984
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1273572,
+            "byteOffset" : 10715124
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1273572,
+            "byteOffset" : 11988696
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 849048,
+            "byteOffset" : 13262268
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2029188,
+            "byteOffset" : 14111316
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1099848,
+            "byteOffset" : 16140504
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1099848,
+            "byteOffset" : 17240352
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 733232,
+            "byteOffset" : 18340200
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1730676,
+            "byteOffset" : 19073432
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1197888,
+            "byteOffset" : 20804108
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1197888,
+            "byteOffset" : 22001996
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 798592,
+            "byteOffset" : 23199884
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1847196,
+            "byteOffset" : 23998476
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 25845672,
+            "uri" : "angel.bin"
+        }
+    ]
+}
